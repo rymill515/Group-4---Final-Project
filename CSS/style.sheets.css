@@ -1,0 +1,14 @@
+.card-deck {
+    padding: 20px;
+}
+
+.accordion {
+    padding: 100px;
+}
+
+.form-group {
+    padding-top: 20px;
+    padding-inline-start: 50px;
+    padding-inline-end: 100px;
+}
+
