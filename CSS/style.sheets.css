@@ -32,14 +32,10 @@ body {
 .jumbotron {
     background-color:#E8923C;
     color: white;
-    background-image: url("../Images/_CoverImage_LargeTopBkrnd2.png");
-    background-position: center;
-    background-size: 150rem;
-    height: 1500px;
 }
 .jumbotron1 {
-    background-color:#2E6369;
-    color: white;
+    background-color:#B7D9CE;
+    color: #2E6369;
     background-size: 150rem;
     height: 500px;
 }
@@ -76,7 +72,7 @@ h1 {
     display: flex;
     justify-content: center;
     align-items: center;
-    text-decoration: underline;
+    color: white;
 }
 
 #subscribe {
@@ -91,6 +87,7 @@ h1 {
     text-align: center;
 }
 
+
 .accordion {
     color: #2E6369;
 }
@@ -103,3 +100,11 @@ h1 {
     padding-left: 50px;
     padding-right: 50px;
 }
+
+.btn {
+    background-color: #E8923C;
+    color: white;
+}
+
+
+
