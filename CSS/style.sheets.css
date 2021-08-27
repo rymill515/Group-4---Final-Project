@@ -32,12 +32,16 @@ body {
 .jumbotron {
     background-color:#E8923C;
     color: white;
+    height: 2000px;
+    background-image:url("/Images/_CoverImage_LargeTopBkrnd2.png");
+    background-position: center;
+    background-size: auto;
 }
 .jumbotron1 {
     background-color:#B7D9CE;
     color: #2E6369;
     background-size: 150rem;
-    height: 500px;
+    height: 400px;
 }
 .lead {
     display: flex;
@@ -73,6 +77,7 @@ h1 {
     justify-content: center;
     align-items: center;
     color: white;
+    background-color: none;
 }
 
 #subscribe {
@@ -92,7 +97,10 @@ h1 {
     color: #2E6369;
 }
 .mb-0 {
-    color: #2E6369;
+    color: #707070;
+}
+.mt-0 {
+    color: #707070;
 }
 
 .row {
