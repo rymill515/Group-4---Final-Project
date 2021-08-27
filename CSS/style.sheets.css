@@ -33,7 +33,7 @@ body {
     background-color:#E8923C;
     color: white;
     height: 2000px;
-    background-image:url("/Images/_CoverImage_LargeTopBkrnd2.png");
+    background-image:url("../Images/_CoverImage_LargeTopBkrnd2.png");
     background-position: center;
     background-size: auto;
 }
