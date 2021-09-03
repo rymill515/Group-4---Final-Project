@@ -32,16 +32,16 @@ body {
 .jumbotron {
     background-color:#E8923C;
     color: white;
-    height: 2000px;
-    background-image:url("../Images/_CoverImage_LargeTopBkrnd2.png");
+    height: 700px;
+    background-image: url("../Images/bigstock-Mother-and-daughter-relationsh-407311850.jpg");
     background-position: center;
-    background-size: auto;
+    background-size: cover;
 }
 .jumbotron1 {
     background-color:#B7D9CE;
     color: #2E6369;
     background-size: 150rem;
-    height: 400px;
+    height: 500px;
 }
 .lead {
     display: flex;
